@@ -1,0 +1,41 @@
+{
+  "name": "@barcia/stylelint-config-order",
+  "version": "1.0.0-alpha.1",
+  "description": "Stylelint config that sorts CSS",
+  "author": "Iván Barcia <ivan@barcia.dev>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barcia/stylelint-config-order.git"
+  },
+  "bugs": {
+    "url": "https://github.com/barcia/stylelint-config-order/issues"
+  },
+  "main": "index.js",
+  "peerDependencies": {
+    "stylelint": "11.x",
+    "stylelint-order": "3.x"
+  },
+  "devDependencies": {
+    "eslint": "^6.5.1",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  },
+  "keywords": [
+    "stylelint",
+    "stylelint-config",
+    "stylelint-order",
+    "stylelint-plugin",
+    "properties-order",
+    "css property order",
+    "declaration-order",
+    "css declaration order",
+    "order-css",
+    "order",
+    "config",
+    "plugin"
+  ]
+}
