@@ -1,6 +1,6 @@
 {
   "name": "@barcia/stylelint-config-order",
-  "version": "1.0.0-alpha.2",
+  "version": "1.0.0-alpha.3",
   "description": "Stylelint config that sorts CSS",
   "author": "Iván Barcia <ivan@barcia.dev>",
   "license": "MIT",
