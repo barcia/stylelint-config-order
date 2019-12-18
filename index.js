@@ -27,7 +27,7 @@ module.exports = {
         },
         {
           type: 'rule',
-          selector: /^&/
+          selector: /^& /
         },
         'at-rules'
       ],
