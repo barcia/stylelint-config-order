@@ -1,5 +1,6 @@
 # Packager managers
 node_modules/
+package-lock.json
 
 # Cache
 .cache
